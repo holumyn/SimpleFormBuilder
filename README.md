@@ -3,8 +3,6 @@ Demo URL: -------
 ###General Information
 
 	A simple Drag and Drop form builder using PHP/MYSQL
-	
-	Github URL: https://github.com/holumyn/jace-project.git
 
 	Technologies: HTML5, CSS3, Javascript(Jquery,AJAX), PHP, MySQL
 
